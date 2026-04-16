@@ -33,8 +33,6 @@ A clean React Native product upload app built with Expo, TypeScript, Context API
 |   |-- screens
 |   |-- types
 |   `-- utils
-|-- docs
-|   `-- FiveCart-App-Walkthrough.pdf
 
 ```
 
