@@ -1,4 +1,4 @@
-# Product Upload App
+# FiveCart App
 
 A clean React Native product upload app built with Expo, TypeScript, Context API, and AsyncStorage.
 
@@ -34,9 +34,8 @@ A clean React Native product upload app built with Expo, TypeScript, Context API
 |   |-- types
 |   `-- utils
 |-- docs
-|   `-- Product-Upload-App-Walkthrough.pdf
-`-- scripts
-    `-- generate_walkthrough.py
+|   `-- FiveCart-App-Walkthrough.pdf
+
 ```
 
 ## Getting Started
@@ -54,12 +53,3 @@ A clean React Native product upload app built with Expo, TypeScript, Context API
    ```
 
 3. Open the project in an Android emulator, iOS simulator, or Expo Go.
-
-## Notes
-
-- The PDF walkthrough is generated into `docs/Product-Upload-App-Walkthrough.pdf`.
-- If you want to refresh the walkthrough after editing the app, run:
-
-  ```bash
-  python scripts/generate_walkthrough.py
-  ```
